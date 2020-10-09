@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**timeworn/timeworn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ✨ Software engineer ✨ expert at Javascript frameworks and libraries such as Angular and React, also node.js
 
 Here are some ideas to get you started:
 
